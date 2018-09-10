@@ -1,0 +1,130 @@
+/* CSS Document */
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#navdiv{
+	display: flex;
+	justify-content: flex-end;
+	height: 100px;
+	width: 100%;
+	position: fixed;
+	top: 0px;
+	background: #ffffff;
+	z-index: 10;
+}
+#pjflogo{
+	height: 100%;
+	padding-right: 41px;
+}
+#logo{
+	height: 80px;
+	width: 300px;
+	position: absolute;
+	left: 0px;
+	top: 50%;
+	transform: translate(114px,-50%);
+}
+.navitems{
+	list-style: none;
+	align-self: center;
+	margin-right: 50px;
+}
+/*Navbar*/
+.sidenav {
+    height: 100vh;
+    width: 0;
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    background-color: #44516B;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #03B15E;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    
+}
+.sidenav{
+    display:none;
+}
+.smallnav{
+  display: none;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+@media screen and (max-width: 990px) {
+	#pjflogo{
+		padding-right: 25px;
+	}
+  .navbar-container{
+    display:none !important;
+  }
+  .smallnav{
+    display:block;
+    position:absolute;
+    z-index:4;
+    padding:15px;
+    background-color:white;
+  }
+  .sidenav{
+    display:block;
+  }
+  .hambar{
+    position:absolute;
+    right:15px;
+    z-index:4;
+  }
+}
+/*Navbar end*/
+
+.content{
+	margin-top: 150px;
+}
+.content:after{
+	content: "";
+    display: block;
+    clear: both;
+	height: 450px;
+}
+.bg1{
+	width: 60%;
+	position: absolute;
+	float: right;
+	right: 0px;
+	top: 20px;
+}
+
+.heading{
+	padding-left: 146px;
+}
+.navitems li{
+	display: inline;
+	padding-right: 50px;
+}
+#sharelogo{
+	height: 80%;
+}
