@@ -6,7 +6,7 @@ body{
 #navdiv{
 	display: flex;
 	justify-content: flex-end;
-	height: 100px;
+	height: 70px;
 	width: 100%;
 	position: fixed;
 	top: 0px;
@@ -26,6 +26,7 @@ body{
 	transform: translate(114px,-50%);
 }
 .navitems{
+    margin-bottom: 0px;
 	list-style: none;
 	align-self: center;
 	margin-right: 50px;
@@ -101,26 +102,6 @@ body{
 }
 /*Navbar end*/
 
-.content{
-	margin-top: 150px;
-}
-.content:after{
-	content: "";
-    display: block;
-    clear: both;
-	height: 450px;
-}
-.bg1{
-	width: 60%;
-	position: absolute;
-	float: right;
-	right: 0px;
-	top: 20px;
-}
-
-.heading{
-	padding-left: 146px;
-}
 .navitems li{
 	display: inline;
 	padding-right: 50px;
