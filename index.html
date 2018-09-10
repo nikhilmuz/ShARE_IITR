@@ -64,24 +64,11 @@
 		<p align="center">Btn</p>
 	</div>
 </div>
+</div>
 <script
   src="https://code.jquery.com/jquery-3.3.1.min.js"
   integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
   crossorigin="anonymous"></script>
-<script>
-var editAdd = [openNav, closeNav],
-      c = 0;
-        function openNav() {
-            document.getElementById("mySidenav").style.width = "250px";
-        }
-        
-        function closeNav() {
-            document.getElementById("mySidenav").style.width = "0";
-        }
-        $('.hambar').click(function(){  
-          editAdd[c++%2]();
-        });
-        $(".sidenav a:nth-child(2)").css("color","#03B15E");	
-</script>
+<script src="assets/js/nav_drawer.js"></script>
 </body>
 </html>
