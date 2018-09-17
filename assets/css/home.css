@@ -20,3 +20,9 @@
     clear: both;
     height: 450px;
 }
+
+.info-disc{
+    padding-right: 20%;
+    padding-left: 20%;
+    line-height: unset;
+}
