@@ -10,7 +10,6 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 <style type="text/css">
 @import url("assets/css/share.css");
-@import url("assets/css/home.css");
 </style>
 </head>
 
@@ -42,36 +41,3 @@
 <span style="font-size:30px;cursor:pointer;float:right;color:black; margin-right: 80px;    position: absolute;
     top: 50%;
     transform: translate(0,-50%);" class="hambar">&#9776;</span></p>
-	<div class="row">
-		<div class="col-md-6">
-		</div>
-		<div class="col-md-6">
-			<img class="bg1" src="assets/images/bg1.png">
-		</div>
-		
-	</div>
-<div class="row content">	
-	<div class="heading col-md-6">
-		<p>GLOBAL STRATEGY</p>
-		<p>CASE CHALLENGE</p>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		<p>14 December - 20 December</p>
-        <p><input type="button" value="Register Now" class="btn solid-btn"></p>
-		<p>Hurry Up! Registration closes 2 November</p>
-	</div>	
-</div>
-<div class="row">
-	<div class="col-md-12">
-		<p align="center">What is global strategy case challenge?</p>
-		<p class="info-disc" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis augue sit amet tempor auctor. Donec eu odio sed nulla laoreet tristique. Cras at egestas justo. Fusce in lobortis augue. Phasellus sapien eros, lobortis ac ligula id, semper placerat nulla. Donec viverra odio vel augue elementum sodales</p>
-        <p><input type="button" value="Know More" class="btn empty-btn"></p>
-	</div>
-</div>
-</div>
-<script
-  src="https://code.jquery.com/jquery-3.3.1.min.js"
-  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-  crossorigin="anonymous"></script>
-<script src="assets/js/nav_drawer.js"></script>
-</body>
-</html>

@@ -4,6 +4,10 @@ body{
 	padding: 0px;
 }
 
+.list{
+    list-style: none;
+}
+
 p{
     line-height: 5px;
 }
@@ -139,3 +143,6 @@ p{
 .active_nav{
     color: #0BC986;
 }
+
+/*footer*/
+/*end footer*/
