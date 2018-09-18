@@ -4,6 +4,14 @@ body{
 	padding: 0px;
     font-family: 'Metropolis';
 }
+a {
+    text-decoration: none;
+    color: unset;
+}
+a:hover{
+    color: unset;
+    text-decoration: none;
+}
 .content{
     margin-top: 150px;
 }
