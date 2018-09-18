@@ -9,8 +9,10 @@
         </div>
         <div class="col-md-4">
             <p class="footer-heading">Contact</p>
-            <p>+91 - 9345678987</p>
-            <p>share@iitr.ac.in</p>
+            <ul class="list">
+                <li>+91 - 9345678987</li>
+                <li>share@iitr.ac.in</li>
+            </ul>
         </div>
         <div class="col-md-4">
             <p class="footer-heading">Find Us</p>

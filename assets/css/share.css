@@ -7,6 +7,7 @@ body{
 
 .list{
     list-style: none;
+    padding-left: 0;
 }
 
 .head-text{
@@ -150,7 +151,6 @@ p{
 .navitems li{
 	display: inline;
 	padding-right: 50px;
-    font-weight: bold;
     font-family: 'Metropolis';
 }
 
