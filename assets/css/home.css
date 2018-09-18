@@ -20,14 +20,16 @@
     clear: both;
     height: 450px;
 }
-
-.info{
-    padding-left: 10%;
-    padding-right: 10%;
+.deadline{
+    font-weight: bold;
 }
-
-.info-disc{
-    padding-right: 10%;
-    padding-left: 10%;
-    line-height: unset;
+.topic{
+    font-weight: bold;
+    color: #0aca86;
+    font-family: 'MetropolisBold';
+    font-size: xx-large;
+    line-height: 0.5;
+}
+.info{
+    font-size: small;
 }

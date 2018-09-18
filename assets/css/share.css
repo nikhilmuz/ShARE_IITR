@@ -2,14 +2,26 @@
 body{
 	margin: 0px;
 	padding: 0px;
+    font-family: 'Metropolis';
 }
 
 .list{
     list-style: none;
 }
 
+.head-text{
+    color: #0aca86;
+    font-weight: bold;
+    font-size: 20px;
+}
+
 p{
-    line-height: 5px;
+    line-height: 1.4;
+}
+
+.padding-10{
+    padding-right: 10%;
+    padding-left: 10%;
 }
 
 .btn{
@@ -18,13 +30,13 @@ p{
     border-radius: 5px;
     font-weight: bold;
     font-size: 15px;
-    box-shadow: 5px 5px 13px 0 rgba(112, 222, 183, 0.78);
 }
 
 .solid-btn{
     border: none;
     background-color: #0aca86;
     color: #ffffff;
+    box-shadow: 5px 5px 13px 0 rgba(112, 222, 183, 0.78);
 }
 
 .empty-btn{
@@ -138,6 +150,8 @@ p{
 .navitems li{
 	display: inline;
 	padding-right: 50px;
+    font-weight: bold;
+    font-family: 'Metropolis';
 }
 
 .active_nav{
@@ -145,4 +159,15 @@ p{
 }
 
 /*footer*/
+.footer{
+    color: #ffffff;
+}
+.footer-heading{
+    font-weight: bold;
+}
+.footer-copy{
+    font-weight: bold;
+    font-family: 'MetropolisThin';
+    font-size: small;
+}
 /*end footer*/
