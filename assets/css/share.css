@@ -4,10 +4,16 @@ body{
 	padding: 0px;
     font-family: 'Metropolis';
 }
-
+.content{
+    margin-top: 150px;
+}
 .list{
     list-style: none;
     padding-left: 0;
+}
+.heading{
+    padding-left: 146px;
+    padding-right: 146px;
 }
 
 .head-text{

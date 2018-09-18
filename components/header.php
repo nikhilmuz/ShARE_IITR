@@ -22,7 +22,7 @@
 	<img class="sharelogo" src="assets/images/share_logo.png"/>
 </div>
 	<ul class="navitems">
-		<li>About</li>
+        <li onclick="document.location='about.php';">About</li>
 		<li>Guidelines</li>
 		<li>Team</li>
 		<li><span class="active_nav">Register</span></li>

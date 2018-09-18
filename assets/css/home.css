@@ -1,17 +1,9 @@
-.heading{
-    padding-left: 146px;
-}
-
 .bg1{
     width: 60%;
     position: absolute;
     float: right;
     right: 0px;
     top: 20px;
-}
-
-.content{
-    margin-top: 150px;
 }
 
 .content:after{
