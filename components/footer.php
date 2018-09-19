@@ -10,13 +10,13 @@
         <div class="col-md-4">
             <p class="footer-heading">Contact</p>
             <ul class="list">
-                <li><a href="tel:+919345678987"><i class="fas fa-phone"></i> +91 - 9345678987</a></li>
-                <li><a href="mailto:share@iitr.ac.in"><i class="fas fa-envelope"></i> share@iitr.ac.in</a></li>
+                <li><a href="tel:+919345678987"><i class="fas fa-phone"></i>&nbsp;&nbsp;&nbsp;+91 - 9345678987</a></li>
+                <li><a href="mailto:share@iitr.ac.in"><i class="fas fa-envelope"></i>&nbsp;&nbsp;&nbsp;share@iitr.ac.in</a></li>
             </ul>
         </div>
         <div class="col-md-4">
             <p class="footer-heading">Find Us</p>
-            <p><a href="https://www.facebook.com/shareiitr/"><i class="fab fa-facebook-f"></i></a> <a href="#"><i class="fab fa-linkedin-in"></i></a> <a href="https://twitter.com/shareiitr"><i class="fab fa-twitter"></i></a></p>
+            <p><a href="https://www.facebook.com/shareiitr/"><i class="fab fa-facebook-f"></i></a>&nbsp;&nbsp;&nbsp;<a href="#"><i class="fab fa-linkedin-in"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/shareiitr"><i class="fab fa-twitter"></i></a></p>
         </div>
         </div>
         <div style="background-color: #08af74;" class="row">
