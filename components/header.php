@@ -23,18 +23,18 @@
 	<a href="/"><img class="sharelogo" src="assets/images/share_logo.png"/></a>
 </div>
 	<ul class="navitems">
-        <li><a href="about.php">About</a></li>
-        <li><a href="guidelines.php">Guidelines</a></li>
-        <li><a href="team.php">Team</a></li>
-        <li><a href="#"><span class="active_nav">Register</span></a></li>
+        <li><a href="about.php"><span id="about_nav">About</a></li>
+        <li><a href="guidelines.php"><span id="guidelines_nav">Guidelines</a></li>
+        <li><a href="team.php"><span id="team_nav">Team</a></li>
+        <li><a href="#"><span id="register_nav" class="register_nav">Register</span></a></li>
 	</ul>
 </div>
 
 		<div id="mySidenav" class="sidenav">
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-            <a href="#">About</a>
-            <a href="#">Guidelines</a>
-            <a href="#">Team</a>
+            <a href="about.php">About</a>
+            <a href="guidelines.php">Guidelines</a>
+            <a href="team.php">Team</a>
             <a href="#">Register</a>
         </div>
        <p class="smallnav" style="height: 100px; width:100%;">

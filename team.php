@@ -2,6 +2,9 @@
 <style type="text/css">
 @import url("assets/css/team.css");
 </style>
+    <script>
+        $('#team_nav').css('font-weight','bold');
+    </script>
 <div class="row content">
 	<div class="heading col-md-12">
         <p class="head-text">Prama Jyoti Foundation</p>
