@@ -4,14 +4,14 @@
             <p class="footer-heading">About</p>
             <ul class="list">
                 <li><a href="http://www.pramajyoti.org/">Prama Jyoti Foundation (PJF)</a></li>
-            <li>ShARE - IITR</li>
+                <li><a href="http://www.share-share.org">ShARE - IITR</a></li>
             </ul>
         </div>
         <div class="col-md-4">
             <p class="footer-heading">Contact</p>
             <ul class="list">
-                <li><a href="tel:+919345678987">+91 - 9345678987</a></li>
-                <li><a href="mailto:share@iitr.ac.in">share@iitr.ac.in</a></li>
+                <li><a href="tel:+919345678987"><i class="fas fa-phone"></i> +91 - 9345678987</a></li>
+                <li><a href="mailto:share@iitr.ac.in"><i class="fas fa-envelope"></i> share@iitr.ac.in</a></li>
             </ul>
         </div>
         <div class="col-md-4">
