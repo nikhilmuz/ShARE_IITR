@@ -4,6 +4,7 @@
 </style>
     <script>
         $('#team_nav').css('font-weight','bold');
+        document.title='Team | Global Strategy Case Challenge';
     </script>
 <div class="row content">
 	<div class="heading col-md-12">

@@ -4,6 +4,7 @@
 </style>
 <script>
     $('#guidelines_nav').css('font-weight','bold');
+    document.title='Guidelines | Global Strategy Case Challenge';
 </script>
 <div class="row content">
 	<div class="heading col-md-12">
