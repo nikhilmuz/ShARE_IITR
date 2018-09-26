@@ -3,6 +3,7 @@
     border-radius: 5px;
     padding: 5%;
     margin-bottom: 100px;
+    background-color: #ffffff;
 }
 .form-field-name{
     margin-bottom: 10px;
@@ -44,4 +45,9 @@ input[name='phone']::-webkit-inner-spin-button,
 input[name='phone']::-webkit-outer-spin-button {
     -webkit-appearance: none;
     margin: 0;
+}
+.content{
+    background-image: url("./../images/map.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
