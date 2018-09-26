@@ -185,6 +185,11 @@ p{
     font-size: small;
 }
 .footer .col-md-4{
-
+    text-align: center;
+}
+.footer-content{
+    padding-top: 15px;
+    display: inline-block;
+    text-align: left;
 }
 /*end footer*/

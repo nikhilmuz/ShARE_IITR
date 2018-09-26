@@ -7,7 +7,7 @@
     document.title='Register | Global Strategy Case Challenge';
 </script>
 <div class="row content">
-    <div class="col-md-12"><p class="head-text" align="center">Register Your Team</p></div>
+    <div class="col-md-12"><p class="topic" align="center">Register Your Team</p></div>
     <div class="row col-md-12">
         <div class="col-md-3"></div>
         <div class="col-md-6 form-well">
@@ -28,10 +28,10 @@
             <p class="form-field-name">University</p>
             <input class="form-field" type="text" />
             <p class="form-field-name">Contact Number</p>
-            <input class="form-field" type="number" />
+            <input name="phone" class="form-field" type="number" />
             <p class="form-field-name">Email - id</p>
             <input class="form-field" type="email" />
-            <p align="center"><input class="btn solid-btn" type="button" value="Submit"></p>
+            <p align="center"><input class="btn solid-btn submit" type="button" value="Submit"></p>
         </div>
         <div class="col-md-3"></div>
     </div>
