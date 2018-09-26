@@ -25,8 +25,9 @@
 	<ul class="navitems">
         <li><a href="about.php"><span id="about_nav">About</a></li>
         <li><a href="guidelines.php"><span id="guidelines_nav">Guidelines</a></li>
+        <li><a href="submissions.php"><span id="submissions_nav">Submissions</a></li>
         <li><a href="team.php"><span id="team_nav">Team</a></li>
-        <li><a href="#"><span id="register_nav" class="register_nav">Register</span></a></li>
+        <li><a href="register.php"><span id="register_nav" class="register_nav">Register</span></a></li>
 	</ul>
 </div>
 
@@ -34,8 +35,9 @@
             <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
             <a href="about.php">About</a>
             <a href="guidelines.php">Guidelines</a>
+            <a href="submissions.php">Submissions</a>
             <a href="team.php">Team</a>
-            <a href="#">Register</a>
+            <a href="register.php">Register</a>
         </div>
        <p class="smallnav" style="height: 100px; width:100%;">
 	<img class="pjflogo" src="assets/images/pjf_logo.png"/>
