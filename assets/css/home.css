@@ -5,13 +5,6 @@
     right: 0px;
     top: 20px;
 }
-
-.content:after{
-    content: "";
-    display: block;
-    clear: both;
-    height: 450px;
-}
 .deadline{
     font-weight: bold;
 }
@@ -24,4 +17,9 @@
 }
 .info{
     font-size: small;
+}
+.content{
+    background-image: url("./../images/map.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
 }
