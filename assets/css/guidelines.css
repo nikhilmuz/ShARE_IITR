@@ -5,3 +5,9 @@
     color: #000000;
     font-weight: unset;
 }
+.accordion{
+    margin-bottom: 100px;
+}
+.card{
+    padding-bottom: 10px;
+}
