@@ -3,7 +3,7 @@
 @import url("assets/css/home.css");
 </style>
 <div id="fullpage">
-<div class="section map-bg fp-auto-height-responsive row">
+<div class="section map-bg fp-noscroll row">
 	<div style="height: 100%" class="col-md-12 text-center content heading">
 		<p class="topic">GLOBAL STRATEGY</p>
 		<p class="topic">CASE CHALLENGE</p>
