@@ -3,8 +3,8 @@
 @import url("assets/css/home.css");
 </style>
 <div id="fullpage">
-<div class="section row content">
-	<div class="col-md-12 text-center heading">
+<div class="section map-bg fp-auto-height-responsive row">
+	<div style="height: 100%" class="col-md-12 text-center content heading">
 		<p class="topic">GLOBAL STRATEGY</p>
 		<p class="topic">CASE CHALLENGE</p>
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -14,7 +14,7 @@
 	</div>
 </div>
 <div class="section">
-    <div class="padding-10">
+    <div class="content padding-10">
 		<p class="head-text" align="center">What is global strategy case challenge?</p>
 		<p class="padding-10" align="center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mattis augue sit amet tempor auctor. Donec eu odio sed nulla laoreet tristique. Cras at egestas justo. Fusce in lobortis augue. Phasellus sapien eros, lobortis ac ligula id, semper placerat nulla. Donec viverra odio vel augue elementum sodales</p>
 		<p onclick="window.location.href='about.php'; " align="center"><input type="button" value="Know More" class="btn empty-btn"></p>
@@ -53,8 +53,8 @@
     <link rel="stylesheet" href="https://rawgit.com/alvarotrigo/fullPage.js/dev/src/fullpage.css">
     <script>
         new fullpage('#fullpage', {
-            autoScrolling:true,
-            scrollOverflow: false,
+            licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
+            scrollOverflow: true,
         });
     </script>
 <?php include_once('components/footer_close.php'); ?>

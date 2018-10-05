@@ -18,8 +18,6 @@
 .info{
     font-size: small;
 }
-.content{
-    background-image: url("./../images/map.png");
-    background-size: 100%;
-    background-repeat: no-repeat;
+.section{
+ width: 100%;
 }

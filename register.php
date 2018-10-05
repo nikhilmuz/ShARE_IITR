@@ -6,7 +6,7 @@
     $('#register_nav').css('font-weight','bold');
     document.title='Register | Global Strategy Case Challenge';
 </script>
-<div class="row content">
+<div class="row map-bg content">
     <div class="col-md-12"><p class="topic" align="center">Register Your Team</p></div>
     <div class="row col-md-12">
         <div class="col-md-3"></div>

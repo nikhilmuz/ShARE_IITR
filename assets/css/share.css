@@ -2,18 +2,30 @@
 body{
 	margin: 0px;
 	padding: 0px;
+    width: 100%;
     font-family: 'Metropolis';
 }
 a {
     text-decoration: none;
     color: unset;
 }
+.container-fluid{
+    padding: 0px;
+}
 a:hover{
     color: unset;
     text-decoration: none;
 }
-.content{
-    margin-top: 150px;
+.map-bg{
+    background-image: url("./../images/map.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.content:before{
+    content: "";
+    display: block;
+    clear: both;
+    height: 150px;
 }
 .list{
     list-style: none;

@@ -6,8 +6,8 @@
         $('#about_nav').css('font-weight','bold');
         document.title='About | Global Strategy Case Challenge';
     </script>
-<div class="row content">
-	<div class="heading col-md-12">
+<div class="row padding-10">
+	<div class="heading content col-md-12">
         <p align="center">Nam sit amet rutrum nisi. Morbi dignissim nibh ac tincidunt sollicitudin. Curabitur feugiat, diam a sodales feugiat, nulla nisl bibendum felis, vel vehicula orci neque vel augue. Phasellus nulla nulla, pharetra vel massa sit amet, accumsan ultrices lacus. Proin suscipit ultricies porttitor. Mauris ac turpis mi. Pellentesque maximus condimentum mauris sed viverra. Curabitur eget aliquam massa, vel sodales elit. Aliquam erat volutpat. In efficitur felis id velit ornare suscipit. Maecenas tempus eros nec maximus luctus. Nunc mattis lacus id ex consequat, eget mollis lectus laoreet. In a purus at dolor tempus ornare. Proin blandit nulla vel nunc cursus aliquet.</p>
         <p class="head-text" align="center">Rewards</p>
         <p align="center">Nam sit amet rutrum nisi. Morbi dignissim nibh ac tincidunt sollicitudin. Curabitur feugiat, diam a sodales feugiat, nulla nisl bibendum felis, vel vehicula orci neque vel augue. Phasellus nulla nulla, pharetra vel massa sit amet, accumsan ultrices lacus. Proin suscipit ultricies porttitor. Mauris ac turpis mi. Pellentesque maximus condimentum mauris sed viverra. Curabitur eget</p>

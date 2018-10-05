@@ -6,8 +6,8 @@
     $('#guidelines_nav').css('font-weight','bold');
     document.title='Guidelines | Global Strategy Case Challenge';
 </script>
-<div class="row content">
-	<div class="padding-10 col-md-12">
+<div class="row">
+	<div class="padding-10 content col-md-12">
         <p class="head-text" align="center">Eligibility</p>
         <ul>
             <li>Teams can consist of students pursuing Undergraduate/Master's Degree in any discipline.</li>
