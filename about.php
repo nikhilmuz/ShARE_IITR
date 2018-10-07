@@ -16,7 +16,7 @@
         <p class="info-text">Rs 50,000 cash prize for the winner</p>
         <p class="info-text">Rs 50,000 cash prize for the winner</p>
         <p class="info-text">Rs 50,000 cash prize for the winner</p>
-        <p onclick="window.location.href='register.php'; " class="info-text"><input type="button" value="Register Now" class="btn solid-btn"></p>
+        <p class="info-text"><input onclick="window.location.href='register.php'; " type="button" value="Register Now" class="btn solid-btn"></p>
 	</div>
 </div>
 <?php include_once('components/footer.php'); ?>
