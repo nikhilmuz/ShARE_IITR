@@ -1,4 +1,4 @@
-<?php include_once('components/footer_data.php'); ?>
+<?php include_once('footer_data.php'); ?>
     </div>
     </div>
     <script src="https://cdn.rawgit.com/alvarotrigo/fullPage.js/f9cf0737/vendors/scrolloverflow.min.js"></script>
@@ -10,4 +10,4 @@
             scrollOverflow: true,
         });
     </script>
-<?php include_once('components/footer_close.php'); ?>
+<?php include_once('footer_close.php'); ?>

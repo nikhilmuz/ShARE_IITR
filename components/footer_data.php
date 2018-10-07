@@ -26,7 +26,7 @@
         </div>
     </div>
     <div style="background-color: #08af74;" class="row">
-        <div style="height: 35px;" class="col-md-12">
+        <div style="height: 35px;" class="copy-container col-md-12">
             <p class="footer-copy" align="center">Designed by:&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://designstudio.cc/"><img height="30px" src="assets/images/ds_logo.png"></a></p>
         </div>
     </div>

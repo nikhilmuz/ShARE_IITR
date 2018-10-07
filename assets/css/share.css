@@ -191,6 +191,13 @@ p{
     font-weight: bold;
     font-family: 'MetropolisThin';
     font-size: small;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,-50%);
 }
 .footer .col-md-4{
     text-align: center;
@@ -199,5 +206,8 @@ p{
     padding-top: 15px;
     display: inline-block;
     text-align: left;
+}
+.copy-container{
+    position: relative;
 }
 /*end footer*/
