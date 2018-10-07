@@ -8,8 +8,8 @@
 </script>
 <div id="fullpage">
     <div class="section">
-<div class="row map-bg content">
-    <div class="col-md-12"><p class="topic" align="center">Register Your Team</p></div>
+<div class="row map-bg">
+    <div class="content col-md-12"><p class="topic" align="center">Register Your Team</p></div>
     <div class="row col-md-12">
         <div class="col-md-3"></div>
         <div class="col-md-6 form-well">
