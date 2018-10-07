@@ -6,6 +6,8 @@
     $('#submissions_nav').css('font-weight','bold');
     document.title='Submissions | Global Strategy Case Challenge';
 </script>
+<div id="fullpage">
+    <div class="section">
 <div class="row content">
 
 </div>

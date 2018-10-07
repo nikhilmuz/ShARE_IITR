@@ -6,6 +6,8 @@
         $('#team_nav').css('font-weight','bold');
         document.title='Team | Global Strategy Case Challenge';
     </script>
+    <div id="fullpage">
+        <div class="section">
 <div class="row">
     <div class="text-center content padding-10">
 	<div class="col-md-12">
